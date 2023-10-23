@@ -1,0 +1,1 @@
+java -Xmx5000M -Xms5000M -jar spigot-1.20.2.jar nogui

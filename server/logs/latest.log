@@ -1,0 +1,264 @@
+[18:53:01] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:53:04] [ServerMain/INFO]: Loaded 7 recipes
+[18:53:04] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[18:53:04] [Server thread/INFO]: Loading properties
+[18:53:05] [Server thread/INFO]: This server is running CraftBukkit version 3923-Spigot-dba3cdc-224f733 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT)
+[18:53:05] [Server thread/INFO]: Debug logging is disabled
+[18:53:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:53:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:53:05] [Server thread/INFO]: Default game type: SURVIVAL
+[18:53:05] [Server thread/INFO]: Generating keypair
+[18:53:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:53:05] [Server thread/INFO]: Using default channel type
+[18:53:06] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.3
+[18:53:06] [Server thread/INFO]: [AntiXRay] Loading AntiXRay v1.9.0
+[18:53:06] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[18:53:06] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.10.10
+[18:53:06] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.12
+[18:53:06] [Server thread/INFO]: [Admin-GUI] Loading Admin-GUI v1.7.0
+[18:53:06] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[18:53:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:53:06] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[18:53:06] [Server thread/INFO]: Preparing level "world"
+[18:53:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:53:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:53:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:53:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:53:06] [Server thread/INFO]: View Distance: 10
+[18:53:06] [Server thread/INFO]: Simulation Distance: 10
+[18:53:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:53:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:53:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:53:06] [Server thread/INFO]: Mob Spawn Range: 6
+[18:53:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:53:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:53:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:53:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:53:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:53:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:53:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:53:06] [Server thread/INFO]: Max TNT Explosions: 100
+[18:53:07] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:53:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:53:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:53:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:53:07] [Server thread/INFO]: View Distance: 10
+[18:53:07] [Server thread/INFO]: Simulation Distance: 10
+[18:53:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:53:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:53:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:53:07] [Server thread/INFO]: Mob Spawn Range: 6
+[18:53:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:53:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:53:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:53:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:53:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:53:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:53:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:53:07] [Server thread/INFO]: Max TNT Explosions: 100
+[18:53:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:53:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:53:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:53:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:53:08] [Server thread/INFO]: View Distance: 10
+[18:53:08] [Server thread/INFO]: Simulation Distance: 10
+[18:53:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:53:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:53:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:53:08] [Server thread/INFO]: Mob Spawn Range: 6
+[18:53:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:53:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:53:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:53:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:53:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:53:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:53:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:53:08] [Server thread/INFO]: Max TNT Explosions: 100
+[18:53:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:53:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:53:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:13] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[18:53:13] [Server thread/INFO]: Time elapsed: 5404 ms
+[18:53:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:53:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:53:17] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[18:53:17] [Server thread/INFO]: Time elapsed: 3909 ms
+[18:53:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:53:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:53:20] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[18:53:21] [Server thread/INFO]: Time elapsed: 3347 ms
+[18:53:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.3
+[18:53:21] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mYour Minecraft version is not supported by this version of SkinsRestorer! Is there a newer version available? If not, join our discord server![0;39m
+net.skinsrestorer.bukkit.utils.NoMappingException: No mapping for this minecraft version found! (3478a65bfd04b15b431fe107b3617dfc)
+	at net.skinsrestorer.bukkit.skinrefresher.MappingSpigotSkinRefresher.<init>(MappingSpigotSkinRefresher.java:44) ~[?:?]
+	at net.skinsrestorer.bukkit.SkinApplierBukkit.selectSpigotRefresher(SkinApplierBukkit.java:96) ~[?:?]
+	at net.skinsrestorer.bukkit.SkinApplierBukkit.detectRefresh(SkinApplierBukkit.java:91) ~[?:?]
+	at net.skinsrestorer.bukkit.SkinApplierBukkit.<init>(SkinApplierBukkit.java:67) ~[?:?]
+	at net.skinsrestorer.bukkit.SkinsRestorer.pluginStartup(SkinsRestorer.java:166) ~[?:?]
+	at net.skinsrestorer.bukkit.SkinsRestorer.onEnable(SkinsRestorer.java:144) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:548) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:462) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:577) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:400) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:250) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:954) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:298) ~[spigot-1.20.2-R0.1-SNAPSHOT.jar:3923-Spigot-dba3cdc-224f733]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+[18:53:21] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
+[18:53:21] [Server thread/INFO]: [AntiXRay] Adding default world entry for world: world
+[18:53:21] [Server thread/INFO]: [AntiXRay] Adding default world entry for world: world_nether
+[18:53:21] [Server thread/INFO]: [AntiXRay] Adding default world entry for world: world_the_end
+[18:53:21] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.10.10
+[18:53:21] [Server thread/INFO]: [LockettePro] Incompatible server version detected: 1.20.2 . Trying to run into 1.16 compatibility mode!
+[18:53:21] [Server thread/INFO]: [LockettePro] ===================================
+[18:53:21] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.12
+[18:53:21] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[18:53:21] [Server thread/INFO]: [Admin-GUI] Enabling Admin-GUI v1.7.0
+[18:53:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:53:21] [Server thread/INFO]: Done (15.206s)! For help, type "help"
+[18:53:21] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[18:53:22] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[]=====[[0;32;1mEnabling [0;31;1mAdminGUI[0;30;1m]=====[][m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m| [0;31;1mInformation:[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mName: [0;36;1mAdminGUI[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mDeveloper: [0;36;1mBlack1_TV[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mVersion: [0;36;1m1.7.0 (FREE) ([0;33;22mupdate available[0;36;1m)[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mPremium: [0;36;1mhttps://rabbit-company.com[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m| [0;31;1mSupport:[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mDiscord: [0;36;1mCrazy Rabbit#0001[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mMail: [0;36;1mziga.zajc007@gmail.com[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|   [0;34;1mDiscord: [0;36;1mhttps://discord.gg/hUNymXX[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m|[m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [0;30;1m[]=====================================[][m
+[18:53:22] [Craft Scheduler Thread - 3/INFO]: [m
+[18:53:22] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.18'; Currently: '6.2.12'
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Downloading update...[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.3[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.13[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m    A new version is available! Downloading it now...[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m    Update downloaded successfully, it will be applied on the next restart.[0;39m[m
+[18:53:23] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[18:53:25] [Craft Scheduler Thread - 0/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[GitHubUpdate] Update saved as plugins\update\SkinsRestorer.jar[0;39m[m
+[18:54:02] [Server thread/INFO]: Stopping the server
+[18:54:02] [Server thread/INFO]: Stopping server
+[18:54:02] [Server thread/INFO]: [Admin-GUI] Disabling Admin-GUI v1.7.0
+[18:54:02] [Server thread/INFO]: [m
+[18:54:02] [Server thread/INFO]: [0;30;1m[]=====[[0;31;22mDisabling [0;31;1mAdminGUI[0;30;1m]=====[][m
+[18:54:02] [Server thread/INFO]: [0;30;1m|[m
+[18:54:02] [Server thread/INFO]: [0;30;1m| [0;31;1mInformation:[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mName: [0;36;1mAdminGUI[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mDeveloper: [0;36;1mBlack1_TV[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mVersion: [0;36;1m1.7.0 (FREE) ([0;33;22mupdate available[0;36;1m)[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mPremium: [0;36;1mhttps://rabbit-company.com[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|[m
+[18:54:02] [Server thread/INFO]: [0;30;1m| [0;31;1mSupport:[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mDiscord: [0;36;1mCrazy Rabbit#0001[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mMail: [0;36;1mziga.zajc007@gmail.com[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|   [0;34;1mDiscord: [0;36;1mhttps://discord.gg/hUNymXX[m
+[18:54:02] [Server thread/INFO]: [0;30;1m|[m
+[18:54:02] [Server thread/INFO]: [0;30;1m[]=====================================[][m
+[18:54:02] [Server thread/INFO]: [m
+[18:54:02] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.12
+[18:54:02] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.10.10
+[18:54:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[18:54:02] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
+[18:54:02] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.3
+[18:54:02] [Server thread/INFO]: Saving players
+[18:54:02] [Server thread/INFO]: Saving worlds
+[18:54:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:54:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:54:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:54:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
